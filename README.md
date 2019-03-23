@@ -1,4 +1,6 @@
 # README
+[](https://github.com/arobida/spider-verse-theme/blob/master/images/spider-verse.png?raw=true)
+
 ## This is the README for your extension "spider-verse-theme"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
