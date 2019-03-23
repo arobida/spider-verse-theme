@@ -1,0 +1,21 @@
+{
+    "name": "spider-verse-theme",
+    "displayName": "spider-verse-theme",
+    "description": "\"Hey\" - A theme based on a leap of faith and an amazing movie",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spider Verse Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Spider Verse Theme-color-theme.json"
+            }
+        ]
+    }
+}
